@@ -48,3 +48,11 @@ Again, this is what it looks like in default Hammer after one save iteration.
 The same map as saved and loaded by HammerPatch.
 
 ![Shape 2 zoom HammerPatch](https://raw.githubusercontent.com/crashfort/HammerPatch/master/Images/Shape2_Zoom_HammerPatch.png)
+
+
+
+
+---------------------------------------------------------------------------------------
+Changes
+
+hammer++ Yes
